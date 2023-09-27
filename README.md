@@ -1,1 +1,2 @@
-This is the alx sytems engineering devops
+#!bin/bash
+New repository for Shell basics
