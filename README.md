@@ -1,2 +1,2 @@
-#!bin/bash
-New repository for Shell basics
+#!/bin/bash
+Welcome to my ALX system engineering devops repository
