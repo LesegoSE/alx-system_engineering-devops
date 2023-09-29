@@ -1,2 +1,2 @@
 #!/bin/bash
-rsync -avu --ignore-existing /*.html ../
+chwon -avu --ignore-existing /*.html ../
